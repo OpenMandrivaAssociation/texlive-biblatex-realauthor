@@ -3,7 +3,7 @@ Version:	45865
 Release:	2
 Summary:	Indicate the real author of a work
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-realauthor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-realauthor
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-realauthor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-realauthor.doc.r%{version}.tar.xz
